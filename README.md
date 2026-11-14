@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="appythons/dp.png" alt="Alok Parmar Profile Photo" width="200" height="200" style="border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
+  <img src="appythons/appythons/IMG_20261114_130052.jpg" alt="Alok Parmar Profile Photo" width="200" height="200" style="border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
 </p>
 
 <p align="center">
